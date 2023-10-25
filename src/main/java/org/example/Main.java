@@ -12,8 +12,7 @@ public class Main {
             System.out.println(" DONE! " );
         System.out.println(" DONE! " );
         System.out.println(" DONE! " );
-         int a =5; int b = a++;
-        System.out.println(b);
+
         System.out.println(" DONE! " );
         System.out.println(" DONE! " );
         }
